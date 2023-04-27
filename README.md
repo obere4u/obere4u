@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100" height="50"/>
   <div>
     <img src="https://komarev.com/ghpvc/?username=obere4u&style=plastic-square&color=brightgreen" alt="Github profile count" width="120"/>
   </div>

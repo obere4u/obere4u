@@ -85,4 +85,12 @@
 #
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/obere4u=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obere4u&theme=dark&border_radius=9.9&fire=EB5454)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obere4u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

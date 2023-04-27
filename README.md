@@ -12,7 +12,7 @@
  #
 
 <p>
-  <img src="./about_image.svg" width="500" height="300" align="right"/>
+  <img src="./about_image.svg" width="250" height="250" align="right"/>
 
   - :student: I’m currently learning Front-end Web development at [Tech4Dev](https://tech4dev.com/) and contributing to frontend by building web applications.
 

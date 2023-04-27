@@ -11,40 +11,38 @@
 
  #
 
-<div align="center">
-  <img src="./about_image.svg" width="500" height="250"/>
-</div>
+<p>
+  <img src="./about_image.svg" width="500" height="300" align="right"/>
 
-### :man_technologist: About Me :
+  - :student: I’m currently learning Front-end Web development at [Tech4Dev](https://tech4dev.com/) and contributing to frontend by building web applications.
 
-- :student: I’m currently learning Front-end Web development at [Tech4Dev](https://tech4dev.com/) and contributing to frontend by building web applications.
+  - 🌱: Exploring Technical Content Writing 📓.
 
-- 🌱: Exploring Technical Content Writing 📓.
+  - ⚡: In my free time, I solve problems on Frontendmentor 🖥️, read tech articles 📖, surf the web 💻, playing/watching ⚽ (Chelsea fan), cooking 🥘:.
 
-- ⚡: In my free time, I solve problems on Frontendmentor 🖥️, read tech articles 📖, surf the web 💻, playing/watching ⚽ (Chelsea fan), cooking 🥘:.
+  - 🤝: I’m looking for help in learning about **Accessible Websites**.
 
-- 🤝: I’m looking for help in learning about **Accessible Websites**.
+  - 👬: I'm open to collaborating with others as I strive to continually improve and expand my skillset.
 
-- 👬: I'm open to collaborating with others as I strive to continually improve and expand my skillset.
+  #
 
-#
+  ## 🏆: Goals and Achivements 
 
-## 🏆: Goals and Achivements 
+  - HTML. ✔️
+  - CSS. ✔️
+  - JavaScript. ✔️
+  - Build a simple website with HTML and CSS. ✔️
+  - Build a simple App with HTML CSS and JavaScript. ✔️
+  - ReactJs (learning).
+  - build an E-commerce website with HTML CSS and JavaScript (on the process).
+  - build a website with React and Tailwindcss (on the process).
 
-- HTML. ✔️
-- CSS. ✔️
-- JavaScript. ✔️
-- Build a simple website with HTML and CSS. ✔️
-- Build a simple App with HTML CSS and JavaScript. ✔️
-- ReactJs (learning).
-- build an E-commerce website with HTML CSS and JavaScript (on the process).
-- build a website with React and Tailwindcss (on the process).
+  ## 🎯: Future Goals
 
-## 🎯: Future Goals
-
-- Build a website with MERN stack.
-- Share my knowledge by mentoring and teaching others in the teach community or seeking to transition into teach.
-- Build a startup in FinTech and waste management.
+  - Build a website with MERN stack.
+  - Share my knowledge by mentoring and teaching others in the teach community or seeking to transition into teach.
+  - Build a startup in FinTech and waste management.
+</p>
 
 #
 

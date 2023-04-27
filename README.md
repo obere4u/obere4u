@@ -95,4 +95,5 @@
 - [Object in JavaScript](https://dev.to/obere4u/object-in-javascript-1fp0)
 - [Open-Source Projects](https://dev.to/obere4u/open-source-projects-5d98)
 - [JavaScript](https://dev.to/obere4u/javascript-3jhc)
+- [HNG &lpar;Zuri&rpar; Internship, My Journey so far](https://dev.to/obere4u/hng-zuri-internship-my-journey-so-far-13n9)
 <!-- BLOG-POST-LIST:END -->

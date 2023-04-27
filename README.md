@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100" height="50"/>
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100" height="80"/>
   <div>
     <img src="https://komarev.com/ghpvc/?username=obere4u&style=plastic-square&color=brightgreen" alt="Github profile count" width="120"/>
   </div>
   <p>
     Hi there!,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-    I'm <strong>Nwosa Tochukwu</strong> a beginner frontend developer with proficiency in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React</strong>, <strong>Tailwindcss</strong>. I am passionate about creating visually appealing and user-friendly websites that provide a great user experience. I have worked on several small projects that have helped me gain knowledge and skills in web development. I am always looking for <strong>new challenges and opportunities</strong> to improve my skills.
+    I'm <strong>Nwosa Tochukwu</strong> a junior frontend developer with proficiency in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React</strong>, <strong>Tailwindcss</strong>. I am passionate about creating visually appealing and user-friendly websites that provide a great user experience. I have worked on several small projects that have helped me gain knowledge and skills in web development. I am always looking for <strong>new challenges and opportunities</strong> to improve my skills.
   </p>
 </div>
 

@@ -12,7 +12,7 @@
  #
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
+  <img src="./about_image.svg" width="500" height="250"/>
 </div>
 
 ### :man_technologist: About Me :

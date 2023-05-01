@@ -91,9 +91,9 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DOMContentLoaded vs window.onload](https://dev.to/obere4u/domcontentloaded-vs-windowonload-9mc)
 - [Cumulative Layout Shift &lpar;CLS&rpar;](https://dev.to/obere4u/cumulative-layout-shift-cls-46k5)
 - [Build a Dice Roll Simulator using HTML CSS and JavaScript](https://dev.to/obere4u/build-a-dice-roll-simulator-using-html-css-and-javascript-1n3o)
 - [Object in JavaScript](https://dev.to/obere4u/object-in-javascript-1fp0)
 - [Open-Source Projects](https://dev.to/obere4u/open-source-projects-5d98)
-- [JavaScript](https://dev.to/obere4u/javascript-3jhc)
 <!-- BLOG-POST-LIST:END -->

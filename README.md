@@ -85,9 +85,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obere4u&theme=dark&border_radius=9.9&fire=EB5454)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obere4u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/obere4u/obere4u/blob/main/devcard.svg" width="300" height="300" alt="Tochukwu Nwosa's Dev Card"/></a>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/obere4u/obere4u/blob/main/devcard.svg" width="400" height="400" alt="Tochukwu Nwosa's Dev Card" align="right"/></a>
 
 #
 

@@ -86,6 +86,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obere4u&theme=dark&border_radius=9.9&fire=EB5454)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obere4u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/obere4u"><img src="https://api.daily.dev/devcards/5da84fe7dc6e4684912f608a5bac2866.png?r=vxz" width="400" alt="Tochukwu Nwosa's Dev Card"/></a>
+
 #
 
 ### :writing_hand: Blog Posts :
@@ -97,3 +99,5 @@
 - [Build a Dice Roll Simulator using HTML CSS and JavaScript](https://dev.to/obere4u/build-a-dice-roll-simulator-using-html-css-and-javascript-1n3o)
 - [Object in JavaScript](https://dev.to/obere4u/object-in-javascript-1fp0)
 <!-- BLOG-POST-LIST:END -->
+
+

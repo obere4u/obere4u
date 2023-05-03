@@ -86,7 +86,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obere4u&theme=dark&border_radius=9.9&fire=EB5454)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obere4u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/obere4u"><img src="https://api.daily.dev/devcards/5da84fe7dc6e4684912f608a5bac2866.png?r=vxz" width="400" alt="Tochukwu Nwosa's Dev Card"/></a>
 
 #
 

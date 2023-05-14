@@ -94,11 +94,11 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Async&lpar;&rpar; and Await: Revolutionizing Asynchronous JavaScript](https://dev.to/obere4u/unleashing-the-power-of-async-and-await-revolutionizing-asynchronous-javascript-1d8m)
 - [Learn to use useState and useEffect hooks in React to create dynamic user interfaces](https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj)
 - [A Fun Introduction to padStart&lpar;&rpar; in JavaScript: Padding Your Strings Like a Pro](https://dev.to/obere4u/a-fun-introduction-to-padstart-in-javascript-padding-your-strings-like-a-pro-3oi)
 - [DOMContentLoaded vs window.onload](https://dev.to/obere4u/domcontentloaded-vs-windowonload-9mc)
 - [Cumulative Layout Shift &lpar;CLS&rpar;](https://dev.to/obere4u/cumulative-layout-shift-cls-46k5)
-- [Build a Dice Roll Simulator using HTML CSS and JavaScript](https://dev.to/obere4u/build-a-dice-roll-simulator-using-html-css-and-javascript-1n3o)
 <!-- BLOG-POST-LIST:END -->
 
 

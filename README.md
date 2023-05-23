@@ -35,14 +35,14 @@
   - JavaScript. ✔️
   - Build a simple website with HTML and CSS. ✔️
   - Build a simple App with HTML CSS and JavaScript. ✔️
-  - ReactJs (learning).
+  - ReactJs (progressing well).
   - build an E-commerce website with HTML CSS and JavaScript (on the process).
-  - build a website with React and Tailwindcss (on the process).
+  - build a website with React and Tailwindcss (still on the process).
 
   ## 🎯: Future Goals
 
   - Build a website with MERN stack.
-  - Share my knowledge by mentoring and teaching others in the teach community or seeking to transition into teach.
+  - Share my knowledge by mentoring and teaching others in the teach community or seeking to transition into teach (started)
   - Build a startup in FinTech and waste management.
 </p>
 

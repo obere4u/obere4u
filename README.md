@@ -44,6 +44,7 @@
   - Build a website with MERN stack.
   - Share my knowledge by mentoring and teaching others in the teach community or seeking to transition into teach (started)
   - Build a startup in FinTech and waste management.
+  - Learn Django
 </p>
 
 #

@@ -46,6 +46,7 @@
   - Build a startup in FinTech and waste management.
   - Learn Django
   - Become a fullstack web developer (Softeware Engineer)
+  - Continue my C50 EDX course 
 </p>
 
 #

@@ -97,11 +97,11 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Rules of React Hooks](https://dev.to/obere4u/mastering-the-rules-of-react-hooks-3ao5)
 - [Simplifying React Props Drilling: A Beginner&#39;s Guide](https://dev.to/obere4u/simplifying-react-props-drilling-a-beginners-guide-3kpc)
 - [JavaScript topics to understand before moving to JavaScript libraies](https://dev.to/obere4u/javascript-topics-to-understand-before-moving-to-javascript-libraies-agk)
 - [Unleashing the Power of Async&lpar;&rpar; and Await: Revolutionizing Asynchronous JavaScript](https://dev.to/obere4u/unleashing-the-power-of-async-and-await-revolutionizing-asynchronous-javascript-1d8m)
 - [Learn to use useState and useEffect hooks in React to create dynamic user interfaces](https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj)
-- [A Fun Introduction to padStart&lpar;&rpar; in JavaScript: Padding Your Strings Like a Pro](https://dev.to/obere4u/a-fun-introduction-to-padstart-in-javascript-padding-your-strings-like-a-pro-3oi)
 <!-- BLOG-POST-LIST:END -->
 
 

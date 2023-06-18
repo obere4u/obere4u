@@ -47,6 +47,7 @@
   - Learn Django
   - Become a fullstack web developer (Softeware Engineer)
   - Continue and finish my C50 EDX course...
+  - Build a work portfolio 
 </p>
 
 #

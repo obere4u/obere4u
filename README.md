@@ -24,7 +24,7 @@
 
   - 🤝: I’m looking for help in learning about **Accessible Websites**.
 
-  - 👬: I'm open to collaborating with others as I strive to continually improve and expand my skillset.
+  - 👬: I'm open to collaborating with others as I strive to continually improve and expand my skillset...
 
   #
 

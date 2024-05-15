@@ -16,13 +16,13 @@
 <p>
   <img src="./about_image.svg" width="250" height="250" align="right"/>
 
-  - :student: I’m currently learning Front-end Web development at [Tech4Dev](https://tech4dev.com/) and contributing to frontend by building web applications.
+  - :student: Currently working as a Front-end Web developer at [Kinplus Technologies](https://kinplusgroup.com/).
 
   - 🌱: Exploring Technical Content Writing 📓.
 
   - ⚡: In my free time, I solve problems on Frontendmentor 🖥️, read tech articles 📖, surf the web 💻, playing/watching ⚽ (Chelsea fan), cooking 🥘:.
 
-  - 🤝: I’m looking for help in learning about **Accessible Websites**.
+  - 🤝: I’m seeking help learning about **Accessible Websites**.
 
   - 👬: I'm open to collaborating with others as I strive to continually improve and expand my skillset...
 
@@ -35,19 +35,20 @@
   - JavaScript. ✔️
   - Build a simple website with HTML and CSS. ✔️
   - Build a simple App with HTML CSS and JavaScript. ✔️
-  - ReactJs (progressing well).
-  - build an E-commerce website with HTML CSS and JavaScript (on the process).
-  - build a website with React and Tailwindcss (still on the process).
+  - ReactJs ✔️.
+  - build an E-commerce website with HTML CSS and JavaScript (in the process).
+  - build a website with React and Tailwindcss. ✔️
+  - Build a website with MERN stack. ✔️
+  - Share my knowledge by mentoring and teaching others in the Tech community or those seeking to transition into Tech (started) ✔️
+  - Build [my work portfolio](https://obere4u.github.io) ✔️
 
   ## 🎯: Future Goals
 
-  - Build a website with MERN stack.
-  - Share my knowledge by mentoring and teaching others in the teach community or seeking to transition into teach (started)
-  - Build a startup in FinTech and waste management.
-  - Learn Django
-  - Become a fullstack web developer (Softeware Engineer)
+  
+  
+  - Build a startup in FinTech or waste management.
+  - Become a full-stack web developer (software engineer)
   - Continue and finish my C50 EDX course...
-  - Build a work portfolio 
 </p>
 
 #

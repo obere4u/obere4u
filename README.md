@@ -7,7 +7,7 @@
   
   <p>
     Hi there!,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-    I'm <strong>Tochukwu Nwosa</strong> a <strong>frontend developer</strong> with proficiency in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwindcss</strong>, and <strong>React</strong>. I am passionate about creating visually appealing and user-friendly websites that provide a great user experience. I have worked on several small projects that have helped me gain knowledge and skills in web development. I am always looking for <strong>new challenges and opportunities</strong> to improve my skills.
+    I'm <strong>Tochukwu Nwosa</strong> a <strong>frontend developer</strong> with proficiency in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwindcss</strong>, and <strong>React</strong>. I am passionate about creating visually appealing and user-friendly websites that provide a great user experience. I have worked on several projects that have helped me gain knowledge and skills in web development. I am always looking for <strong>new challenges and opportunities</strong> to improve my skills.
   </p>
 </div>
 

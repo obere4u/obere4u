@@ -99,11 +99,11 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hoisted and Confused? Let’s Decode JavaScript’s Scope Magic](https://dev.to/obere4u/hoisted-and-confused-lets-decode-javascripts-scope-magic-358c)
 - [A Comparative Analysis of Alpine.js and ReactJS](https://dev.to/obere4u/a-comparative-analysis-of-alpinejs-and-reactjs-3lk8)
 - [How to Perform Form Validation in React](https://dev.to/obere4u/how-to-perform-form-validation-in-react-3kgi)
 - [Build a Simple Shopping List App with JavaScript](https://dev.to/obere4u/build-a-simple-shopping-list-app-with-javascript-38ln)
 - [Mastering the Rules of React Hooks](https://dev.to/obere4u/mastering-the-rules-of-react-hooks-3ao5)
-- [Simplifying React Props Drilling: A Beginner&#39;s Guide](https://dev.to/obere4u/simplifying-react-props-drilling-a-beginners-guide-3kpc)
 <!-- BLOG-POST-LIST:END -->
 
 
